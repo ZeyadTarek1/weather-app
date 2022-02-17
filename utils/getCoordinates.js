@@ -21,4 +21,5 @@ const getCoordinates = (city, callback) => {
     });
 };
 
+// export
 module.exports = getCoordinates;

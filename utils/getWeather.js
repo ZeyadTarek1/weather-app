@@ -18,4 +18,5 @@ const getWeather = (lat, long, callback) => {
     });
 };
 
+// export
 module.exports = getWeather;
